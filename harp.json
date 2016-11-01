@@ -16,7 +16,7 @@
     "devfreebooks": {
       "title": "DevFreeBooks",
       "about": "A huge collection of free books for developers",
-      "url": "https://devfreebooks.org?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
+      "url": "https://devfreebooks.github.io?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
     },
     "utm": "utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts",
     "platforms": ["nodejs", "meteor", "angularjs",
