@@ -1,0 +1,34 @@
+{
+  "globals": {
+    "title": "DevFreeCasts",
+    "description": "A huge collection of free screencasts for developers",
+    "author": "Caio Ribeiro Pereira",
+    "email": "caio.ribeiro.pereira@gmail.com",
+    "level": {
+      "b": "Basic video",
+      "i": "Intermediate video",
+      "a": "Advanced video"
+    },
+    "root_url": {
+      "development": "http://localhost:3000/",
+      "production": "https://devfreecasts.github.io/"
+    },
+    "devfreebooks": {
+      "title": "DevFreeBooks",
+      "about": "A huge collection of free books for developers",
+      "url": "https://devfreebooks.org?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
+    },
+    "utm": "utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts",
+    "platforms": ["nodejs", "meteor", "angularjs",
+                  "react", "backbone", "javascript",
+                  "rails","ruby", "go",
+                  "grunt", "elixir", "scala",
+                  "python","grails", "php",
+                  "ios","android", "java",
+                  "vim", "chrome-devtools", "git",
+                  "famous", "playframework", "haskell",
+                  "polymer","django", "csharp",
+                  "emberjs", "gulp", "css" ,
+                  "c_cpp", "html"]
+  }
+}

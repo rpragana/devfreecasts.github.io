@@ -1,0 +1,20 @@
+- var sorted_platforms = platforms.sort();
+- var total_videos = sorted_platforms.reduce(function(total, platform) {
+-     return total + public[platform]._data.index.videos.length;
+- }, 0);
+section.row-fluid.clearfix
+  p.center.hidden-xs.hidden-sm
+    a.btn.btn-lg.btn-primary(href="https://github.com/devfreecasts/devfreecasts.github.io/blob/master/README.md#how-to-add-screencasts" target="_blank" rel="nofollow" title="Just click and follow these rules to submit a video.") <i class="icon-plus"></i>&nbsp;Submit video
+  p.center
+    strong #{platforms.length}</strong> platforms and <strong>#{total_videos}</strong> videos
+section.row-fluid.clearfix
+  .row-fluid
+    each platform in sorted_platforms
+      - var platform_data = public[platform]._data.index
+      .col-xs-12.col-sm-4.col-md-3
+        .thumbnail
+          a(href="#{root_url[environment]}#{platform_data.name}" title="#{platform_data.about}")
+            img.img-responsive.img-rounded(src="#{root_url[environment]}assets/images/#{platform_data.image}" alt="#{platform_data.about}")
+          .caption
+            p.center
+              a.btn.btn-block.btn-primary(href="#{root_url[environment]}#{platform_data.name}" title="#{platform_data.about}")<i class="icon-video"></i>&nbsp;#{platform_data.subtitle} (#{platform_data.videos.length} videos)
