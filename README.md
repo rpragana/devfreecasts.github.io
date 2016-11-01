@@ -1,6 +1,6 @@
 # DevFreeCasts
 
-This is the repository of the site http://devfreecasts.github.io to submit screencasts links.
+This is the repository of the site https://devfreecasts.github.io to submit screencasts links.
 
 ## How to add screencasts?
 
