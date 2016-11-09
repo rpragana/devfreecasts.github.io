@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-09T00:53:59.807Z
+# rev 1 - 2016-11-09T15:48:48.199Z
 
 CACHE:
 404.html
@@ -7,7 +7,6 @@ about/index.html
 android/index.html
 angularjs/index.html
 assets/css/application.css
-assets/css/application.gz.css
 assets/font/icon.eot
 assets/font/icon.svg
 assets/font/icon.ttf
@@ -102,11 +101,8 @@ assets/images/typesafe.jpg
 assets/images/vim.jpg
 assets/images/vimcasts.jpg
 assets/images/watchmecode.jpg
-assets/js/aightjs.gz.js
 assets/js/aightjs.min.js
-assets/js/application.gz.js
 assets/js/application.js
-assets/js/html5shiv.gz.js
 assets/js/html5shiv.min.js
 backbone/index.html
 c_cpp/index.html
