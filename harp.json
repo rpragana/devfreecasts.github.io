@@ -1,6 +1,7 @@
 {
   "globals": {
     "title": "DevFreeCasts",
+    "slug_title": "devfreecasts",
     "description": "A huge collection of free screencasts for developers",
     "author": "Caio Ribeiro Pereira",
     "email": "caio.ribeiro.pereira@gmail.com",
@@ -9,6 +10,7 @@
       "i": "Intermediate video",
       "a": "Advanced video"
     },
+    "github_url": "https://github.com/devfreecasts/devfreecasts.github.io",
     "root_url": {
       "development": "http://localhost:3000/",
       "production": "https://devfreecasts.github.io/"
@@ -17,6 +19,11 @@
       "title": "DevFreeBooks",
       "about": "A huge collection of free books for developers",
       "url": "https://devfreebooks.github.io?utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
+    },
+    "devnewsletters": {
+      "title": "DevNewsletters",
+      "about": "A collection of newsletters for developers subscribe",
+      "url": "https://devnewsletters.github.io?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
     },
     "utm": "utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts",
     "platforms": ["nodejs", "meteor", "angularjs",
