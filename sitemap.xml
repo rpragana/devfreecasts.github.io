@@ -2,205 +2,205 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://devfreecasts.github.io/about/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/android/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/angularjs/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/backbone/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/c_cpp/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/chrome-devtools/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/csharp/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/css/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/django/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/elixir/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/emberjs/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/famous/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/git/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/go/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/grails/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/grunt/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/gulp/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/haskell/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/html/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/ios/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/java/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/javascript/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/meteor/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/nodejs/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/php/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/playframework/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/polymer/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/python/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/rails/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/react/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/ruby/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/scala/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://devfreecasts.github.io/vim/</loc>
-		<lastmod>2016-11-10T15:45:43.000Z</lastmod>
+		<lastmod>2016-11-10T19:40:43.000Z</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>
