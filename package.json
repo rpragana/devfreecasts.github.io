@@ -1,7 +1,7 @@
 {
   "name": "devfreecasts",
   "version": "2.0.0",
-  "description": "A huge collection of free screencasts for devs",
+  "description": "A collection of free screencasts for devs",
   "author": "Caio Ribeiro Pereira",
   "license": "MIT",
   "scripts": {

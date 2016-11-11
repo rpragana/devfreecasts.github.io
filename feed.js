@@ -12,7 +12,7 @@ const feed = new RSS({
   description: harp.description,
   feed_url: `${rootUrl}rss.xml`,
   site_url: rootUrl,
-  image_url: `${imageRootUrl}${harp.slug_title}-128.png`,
+  image_url: `${imageRootUrl}${harp.slug_title}-thumb.png`,
   managingEditor: harp.author,
   pubDate: moment().format('LLLL'),
   ttl: 60
@@ -24,16 +24,12 @@ harp.platforms.forEach((platformName) => {
     const videoId = video.title.replace(/[^\w\s]/g, '').replace(/\s/g, '-').toLowerCase();
     const videoLink = `${rootUrl}${platformName}/#${videoId}`;
     const videoPublishedAt = moment(video.published_at || moment().format('YYYYMMDD'), 'YYYYMMDD');
-    const videoImage = imageRootUrl + (video.image || platform.image);
     videos.push({
       title: `Video: ${video.title}`,
       description: video.description,
       url: videoLink,
       author: harp.author,
-      date: videoPublishedAt.format('ll'),
-      enclosure: {
-        url: videoImage
-      }
+      date: videoPublishedAt.format('ll')
     });
   });
 });
