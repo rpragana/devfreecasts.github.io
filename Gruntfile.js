@@ -96,5 +96,5 @@ module.exports = (grunt) => {
   grunt.registerTask('prebuild:dev', ['clean', 'env:dev', 'stylus']);
   grunt.registerTask('prebuild:prod', ['clean', 'env:prod', 'stylus']);
   grunt.registerTask('build:prod', ['shell:feed', 'appcache', 'compress', 'sitemaps']);
-  grunt.registerTask('deploy:prod', ['gh-pages']);
+  grunt.registerTask('deploy:prod', ['gh-pages', 'clean']);
 };
