@@ -17,8 +17,7 @@
         "site" : "Amooma",
         "site_url": "http://www.amooma.de",
         "lang": "en",
-        "image": "amooma.jpg",
-        "publish": true
+        "image": "amooma.jpg"
       },
       {
         "title": "Authorization with Ruby on Rails 4.2",
@@ -30,8 +29,7 @@
         "site" : "Amooma",
         "site_url": "http://www.amooma.de",
         "lang": "en",
-        "image": "amooma.jpg",
-        "publish": true
+        "image": "amooma.jpg"
       },
       {
         "title": "Authentication with Ruby on Rails 4.2",
@@ -43,8 +41,7 @@
         "site" : "Amooma",
         "site_url": "http://www.amooma.de",
         "lang": "en",
-        "image": "amooma.jpg",
-        "publish": true
+        "image": "amooma.jpg"
       },
       {
         "title": "Nested Forms with Ruby on Rails 4.2",
@@ -56,8 +53,7 @@
         "site" : "Amooma",
         "site_url": "http://www.amooma.de",
         "lang": "en",
-        "image": "amooma.jpg",
-        "publish": true
+        "image": "amooma.jpg"
       },
       {
         "title": "Secure your Cookies",
@@ -69,8 +65,7 @@
         "site" : "Ruby Tree Software",
         "site_url": "http://www.rubytreesoftware.com",
         "lang": "en",
-        "image": "rubytreesoftware.jpg",
-        "publish": true
+        "image": "rubytreesoftware.jpg"
       },
       {
         "title": "Ruby on Rails 4.1 Ubuntu 14.04 Server Deployment",
@@ -82,8 +77,7 @@
         "site" : "Ruby Tree Software",
         "site_url": "http://www.rubytreesoftware.com",
         "lang": "en",
-        "image": "rubytreesoftware.jpg",
-        "publish": true
+        "image": "rubytreesoftware.jpg"
       },
       {
         "title": "Ruby on Rails 4.1 Ubuntu 14.04 Server Configuration",
@@ -95,8 +89,7 @@
         "site" : "Ruby Tree Software",
         "site_url": "http://www.rubytreesoftware.com",
         "lang": "en",
-        "image": "rubytreesoftware.jpg",
-        "publish": true
+        "image": "rubytreesoftware.jpg"
       },
       {
         "title": "Setup a Rails 4.1 Development Environment on Ubuntu 14.04",
@@ -108,8 +101,7 @@
         "site" : "Ruby Tree Software",
         "site_url": "http://www.rubytreesoftware.com",
         "lang": "en",
-        "image": "rubytreesoftware.jpg",
-        "publish": true
+        "image": "rubytreesoftware.jpg"
       },
       {
         "title": "ActiveRecord Finders",
@@ -121,8 +113,7 @@
         "site" : "Code School",
         "site_url": "https://www.codeschool.com",
         "lang": "en",
-        "image": "codeschool.jpg",
-        "publish": true
+        "image": "codeschool.jpg"
       },
       {
         "title": "ActiveModel",
@@ -134,8 +125,7 @@
         "site" : "Code School",
         "site_url": "https://www.codeschool.com",
         "lang": "en",
-        "image": "codeschool.jpg",
-        "publish": true
+        "image": "codeschool.jpg"
       },
       {
         "title": "Routes, Ruby 1.9.3 and ThreadSafety",
@@ -147,8 +137,7 @@
         "site" : "Code School",
         "site_url": "https://www.codeschool.com",
         "lang": "en",
-        "image": "codeschool.jpg",
-        "publish": true
+        "image": "codeschool.jpg"
       },
       {
         "title": "Strong Parameters, Filters and Remote forms",
@@ -160,8 +149,7 @@
         "site" : "Code School",
         "site_url": "https://www.codeschool.com",
         "lang": "en",
-        "image": "codeschool.jpg",
-        "publish": true
+        "image": "codeschool.jpg"
       },
       {
         "title": "Filters, Session, Custom Flash types",
@@ -173,8 +161,7 @@
         "site" : "Code School",
         "site_url": "https://www.codeschool.com",
         "lang": "en",
-        "image": "codeschool.jpg",
-        "publish": true
+        "image": "codeschool.jpg"
       },
       {
         "title": "Views",
@@ -186,8 +173,7 @@
         "site" : "Code School",
         "site_url": "https://www.codeschool.com",
         "lang": "en",
-        "image": "codeschool.jpg",
-        "publish": true
+        "image": "codeschool.jpg"
       },
       {
         "title": "Testing",
@@ -199,8 +185,7 @@
         "site" : "Code School",
         "site_url": "https://www.codeschool.com",
         "lang": "en",
-        "image": "codeschool.jpg",
-        "publish": true
+        "image": "codeschool.jpg"
       },
       {
         "title": "ETags",
@@ -212,8 +197,7 @@
         "site" : "Code School",
         "site_url": "https://www.codeschool.com",
         "lang": "en",
-        "image": "codeschool.jpg",
-        "publish": true
+        "image": "codeschool.jpg"
       },
       {
         "title": "Dalli and Cache Digests",
@@ -225,8 +209,7 @@
         "site" : "Code School",
         "site_url": "https://www.codeschool.com",
         "lang": "en",
-        "image": "codeschool.jpg",
-        "publish": true
+        "image": "codeschool.jpg"
       },
       {
         "title": "Streaming and Turbolinks",
@@ -238,8 +221,7 @@
         "site" : "Code School",
         "site_url": "https://www.codeschool.com",
         "lang": "en",
-        "image": "codeschool.jpg",
-        "publish": true
+        "image": "codeschool.jpg"
       },
       {
         "title": "Consuming an API Using HTTParty and Creating a Gem",
@@ -251,8 +233,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Forum Series: Architecture",
@@ -264,8 +245,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Forum Series: Nested Attributes and fields_for",
@@ -277,8 +257,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Forum Series: Email Notifications, deliver_later, and Previews",
@@ -290,8 +269,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Forum Series: Time Zones using the local_time Gem",
@@ -303,8 +281,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Rails 4.2 Introduction",
@@ -316,8 +293,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "A look into Routing",
@@ -329,8 +305,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Rails Application Structure",
@@ -342,8 +317,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "User Authentication with Devise",
@@ -355,8 +329,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "File Uploading with Carrierwave",
@@ -368,8 +341,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Pagination with will_paginate",
@@ -381,8 +353,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Pretty urls with FriendlyID",
@@ -394,8 +365,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Rake",
@@ -407,8 +377,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       },
       {
         "title": "Rake Rules",
@@ -420,8 +389,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       },
       {
         "title": "Rake MultiTask",
@@ -433,8 +401,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       }
     ]
   }

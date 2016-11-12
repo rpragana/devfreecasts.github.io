@@ -17,8 +17,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Drawing Text on Canvas",
@@ -30,8 +29,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Simple drag and drop with Observables",
@@ -43,8 +41,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Using the map method with Observable",
@@ -56,8 +53,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Introducing the Observable",
@@ -69,8 +65,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Create an Array concatAll method",
@@ -82,8 +77,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Chaining the Array map and filter methods",
@@ -95,8 +89,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "The Array filter method",
@@ -108,8 +101,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "The Array map method",
@@ -121,8 +113,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "The Array forEach method",
@@ -134,8 +125,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Get Started with LeafletJS Mapping",
@@ -147,8 +137,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Gradient Fills on the HTML5 Canvas",
@@ -160,8 +149,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Drawing Path - Curves and Arcs",
@@ -173,8 +161,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Drawing Styles on HTML5 Canvas",
@@ -186,8 +173,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Drawing Paths - Lines and Rectangles",
@@ -199,8 +185,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Introduction to the HTML Canvas element",
@@ -212,8 +197,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "ES6 Generators",
@@ -225,8 +209,7 @@
         "site" : "TagTree",
         "site_url": "http://tagtree.tv",
         "image": "tagtree.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Functions Scope Basic",
@@ -238,8 +221,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Introduction to Lodash",
@@ -251,8 +233,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "ECMAscript 6 Arrow function",
@@ -264,8 +245,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "ECMAscript 6 Array comprehensions",
@@ -277,8 +257,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "ECMAscript 6 String templates",
@@ -290,8 +269,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "ECMAscript 6 Generators",
@@ -303,8 +281,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Introduction to ECMAScript 6",
@@ -316,8 +293,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "Picking the ECMAScript 6 environment",
@@ -329,8 +305,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "SOLID JS In A Wobbly World Wide Web",
@@ -342,8 +317,7 @@
         "site" : "Watchmecode",
         "site_url": "https://sub.watchmecode.net",
         "image": "watchmecode.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "AMD Build With Grunt And Rigger",
@@ -355,8 +329,7 @@
         "site" : "Watchmecode",
         "site_url": "https://sub.watchmecode.net",
         "image": "watchmecode.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "The Jasmine Standalone Runner",
@@ -368,8 +341,7 @@
         "site" : "Watchmecode",
         "site_url": "https://sub.watchmecode.net",
         "image": "watchmecode.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "ES6 Arrow Functions",
@@ -381,8 +353,7 @@
         "site" : "Ode to Code",
         "site_url": "http://odetocode.com",
         "image": "odetocode.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "ES6 Template Strings",
@@ -394,8 +365,7 @@
         "site" : "Ode to Code",
         "site_url": "http://odetocode.com",
         "image": "odetocode.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "ES6 Rest Parameters",
@@ -407,8 +377,7 @@
         "site" : "Ode to Code",
         "site_url": "http://odetocode.com",
         "image": "odetocode.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "ES6 Default Parameter Values",
@@ -420,8 +389,7 @@
         "site" : "Ode to Code",
         "site_url": "http://odetocode.com",
         "image": "odetocode.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "ES6 Spread",
@@ -433,8 +401,7 @@
         "site" : "Ode to Code",
         "site_url": "http://odetocode.com",
         "image": "odetocode.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       }
     ]
   }

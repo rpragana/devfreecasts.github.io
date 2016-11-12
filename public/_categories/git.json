@@ -17,8 +17,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "Installing & Configuring Git",
@@ -30,8 +29,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "The Basic Workflow of Version Control",
@@ -43,8 +41,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "Creating a New Local Repository",
@@ -56,8 +53,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "Cloning an Existing Repository",
@@ -69,8 +65,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "Inspecting Local Changes",
@@ -82,8 +77,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "Staging & Committing Changes",
@@ -95,8 +89,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "Commit History",
@@ -108,8 +101,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "Ignoring Files",
@@ -121,8 +113,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "Introduction to Branches",
@@ -134,8 +125,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "Creating & Checking Out Branches",
@@ -147,8 +137,7 @@
         "site": "Git Tower",
         "site_url": "http://www.git-tower.com/learn/videos",
         "lang": "en",
-        "image": "git-tower.jpg",
-        "publish": true
+        "image": "git-tower.jpg"
       },
       {
         "title": "What is Version Control?",
@@ -159,8 +148,7 @@
         "published_at": "20150213",
         "site": "Git",
         "site_url": "http://git-scm.com/videos",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "What is Git?",
@@ -171,8 +159,7 @@
         "published_at": "20150213",
         "site": "Git",
         "site_url": "http://git-scm.com/videos",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Get Going with Git",
@@ -183,8 +170,7 @@
         "published_at": "20150213",
         "site": "Git",
         "site_url": "http://git-scm.com/videos",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Quick wins with Git",
@@ -195,8 +181,7 @@
         "published_at": "20150213",
         "site": "Git",
         "site_url": "http://git-scm.com/videos",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Beginning with Git",
@@ -207,8 +192,7 @@
         "published_at": "20150213",
         "site": "Akita On Rails",
         "site_url": "http://www.akitaonrails.com/2012/04/09/screencasts-liberados-gratuitamente",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       }
     ]
   }

@@ -17,8 +17,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "PHP CodeIgniter Tutorial 2 - Models/Database",
@@ -30,8 +29,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "PHP CodeIgniter Project 1 - Creating website from Scratch",
@@ -43,8 +41,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "PHP CodeIgniter Project 2 - Header, Footer and Navigation bar",
@@ -56,8 +53,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "PHP CodeIgniter Project 3 - Login System",
@@ -69,32 +65,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
-      },
-      {
-        "title": "PHP, Request and Servers",
-        "description": "A quick and good video explaining how a PHP server works when a client do some requests there.",
-        "duration": "3:49",
-        "level": "b",
-        "url": "https://www.youtube.com/watch?v=a7gycPVPtRk",
-        "published_at": "20150213",
-        "site" : "Evaldo Junior",
-        "site_url": "https://www.youtube.com/user/EvaldoJuniorBento/videos",
-        "lang": "pt-br",
-        "publish": true
-      },
-      {
-        "title": "Should I or not use PHP framework?",
-        "description": "In this videos, let's learn the benefits of a PHP framework and when it'll be a good idea to use one.",
-        "duration": "2:56",
-        "level": "b",
-        "url": "https://www.youtube.com/watch?v=GjBLxHANuy0",
-        "published_at": "20150213",
-        "site" : "Evaldo Junior",
-        "site_url": "https://www.youtube.com/user/EvaldoJuniorBento/videos",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Introduction OOP Design in PHP",
@@ -105,9 +76,8 @@
         "published_at": "20150213",
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
-        "lang": "en",
         "image": "tutsplus.jpg",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Isolating Global State",
@@ -119,8 +89,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "Introduction to PHP Testing",
@@ -132,8 +101,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "PHP Regular Testing",
@@ -145,8 +113,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "PHPUnit",
@@ -158,8 +125,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "PHP Codeception",
@@ -171,8 +137,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "PHP Behat",
@@ -184,8 +149,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "PHP Namespaces in 120 seconds",
@@ -197,8 +161,7 @@
         "site" : "Knp University",
         "site_url": "https://knpuniversity.com",
         "image": "knpuniversity.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Dependency Injection Introduction",
@@ -210,8 +173,7 @@
         "site" : "Knp University",
         "site_url": "https://knpuniversity.com",
         "image": "knpuniversity.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "The Worlderful World of Composer",
@@ -223,8 +185,7 @@
         "site" : "Knp University",
         "site_url": "https://knpuniversity.com",
         "image": "knpuniversity.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       }
     ]
   }

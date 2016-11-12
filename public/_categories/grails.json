@@ -16,8 +16,7 @@
         "published_at": "20150213",
         "site" : "Henrique Weissmann",
         "site_url": "http://www.youtube.com/user/kicolobo/videos",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Groovy Collections",
@@ -28,8 +27,7 @@
         "published_at": "20150213",
         "site" : "Henrique Weissmann",
         "site_url": "http://www.youtube.com/user/kicolobo/videos",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Grails dependencies with Artifactory",
@@ -40,8 +38,7 @@
         "published_at": "20150213",
         "site" : "Henrique Weissmann",
         "site_url": "http://www.youtube.com/user/kicolobo/videos",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       }
     ]
   }

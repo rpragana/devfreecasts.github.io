@@ -16,8 +16,7 @@
         "published_at": "20150213",
         "site" : "Elixir Tutorials",
         "site_url": "http://vimeo.com/channels/elixir",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "IEx Run-Time System Flags",
@@ -28,8 +27,7 @@
         "published_at": "20150213",
         "site" : "Elixir Tutorials",
         "site_url": "http://vimeo.com/channels/elixir",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Creating Local and Remote Shells",
@@ -40,8 +38,7 @@
         "published_at": "20150213",
         "site" : "Elixir Tutorials",
         "site_url": "http://vimeo.com/channels/elixir",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "IEx Helpers and Common Commands",
@@ -52,8 +49,7 @@
         "published_at": "20150213",
         "site" : "Elixir Tutorials",
         "site_url": "http://vimeo.com/channels/elixir",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "IEx Working with Files and Scripts",
@@ -64,8 +60,7 @@
         "published_at": "20150213",
         "site" : "Elixir Tutorials",
         "site_url": "http://vimeo.com/channels/elixir",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Customizing IEx",
@@ -76,8 +71,7 @@
         "published_at": "20150213",
         "site" : "Elixir Tutorials",
         "site_url": "http://vimeo.com/channels/elixir",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Introduction and Installing Elixir",
@@ -89,8 +83,7 @@
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Dinamo Part 1",
@@ -102,8 +95,7 @@
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Releases with Relex",
@@ -115,8 +107,7 @@
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "PCM Audio",
@@ -128,8 +119,7 @@
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Ecto Part 1",
@@ -141,8 +131,7 @@
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Parsing XML",
@@ -154,8 +143,7 @@
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Maps Part 1",
@@ -167,8 +155,7 @@
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Maps Part 2",
@@ -180,8 +167,7 @@
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Quickie Synth",
@@ -193,8 +179,7 @@
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "EEx",
@@ -206,8 +191,7 @@
         "site" : "Elixir sips",
         "site_url": "http://elixirsips.com",
         "image": "elixirsips.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       }
     ]
   }

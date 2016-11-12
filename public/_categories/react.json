@@ -17,8 +17,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Using TweenMax with React",
@@ -30,8 +29,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Reflux - Creating your first Action in React",
@@ -43,8 +41,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Setting up a React Playground Dev Environment",
@@ -56,8 +53,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Thinking in React",
@@ -69,8 +65,7 @@
         "site" : "TagTree",
         "site_url": "http://tagtree.tv",
         "image": "tagtree.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Hello World - First Component",
@@ -82,8 +77,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "The Render Method",
@@ -95,8 +89,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Introduction to Properties",
@@ -108,8 +101,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Owner Ownee Relationship",
@@ -121,8 +113,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Using Refs to Access Components",
@@ -134,8 +125,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Composable Components",
@@ -147,8 +137,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "State Basics",
@@ -160,8 +149,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Flux Components/Views",
@@ -173,8 +161,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Flux Stores",
@@ -186,8 +173,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Flux Actions",
@@ -199,8 +185,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Flux Overview and Dispatchers",
@@ -212,8 +197,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Flux Development Environment Setup",
@@ -225,8 +209,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Developer Tools",
@@ -238,8 +221,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       }
     ]
   }

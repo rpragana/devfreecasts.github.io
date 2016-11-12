@@ -17,8 +17,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "C# Tutorial 2 - First program",
@@ -30,8 +29,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "C# Tutorial 3 - Variables and Data types",
@@ -43,8 +41,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "C# Tutorial 4 - Operators (Mathematical and Logical)",
@@ -56,8 +53,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "C# Tutorial 5 - if/else statement",
@@ -69,8 +65,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "C# Tutorial 6 - Nested if/else statement",
@@ -82,8 +77,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "C# Tutorial 7 - Switch statement",
@@ -95,8 +89,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "C# Tutorial 8 - Arrays",
@@ -108,8 +101,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       }
     ]
   }

@@ -6,7 +6,7 @@
     "site": "http://developer.android.com",
     "image": "android.jpg",
     "description": "Watch screencasts over a list with the best free videos about Android mobile platform.",
-    "videos": [ 
+    "videos": [
       {
         "title": "Where we start?",
         "description": "This is videos has some tips for everybody starts develop into an Android environment.",
@@ -16,8 +16,7 @@
         "published_at": "20150213",
         "site" : "José Naves Moura Neto",
         "site_url": "https://www.youtube.com/user/josenavesneto/videos",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Activities",
@@ -28,8 +27,7 @@
         "published_at": "20150213",
         "site" : "José Naves Moura Neto",
         "site_url": "https://www.youtube.com/user/josenavesneto/videos",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Layouts",
@@ -40,8 +38,7 @@
         "published_at": "20150213",
         "site" : "José Naves Moura Neto",
         "site_url": "https://www.youtube.com/user/josenavesneto/videos",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Application Object",
@@ -53,8 +50,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"
       },
       {
         "title": "AsyncTask, Preferences and Options menu",
@@ -66,8 +62,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"        
       },
       {
         "title": "Main Building Blocks",
@@ -79,8 +74,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"        
       },
       {
         "title": "Android UI",
@@ -92,8 +86,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"        
       },
       {
         "title": "Spicing up the UI",
@@ -105,8 +98,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"        
       },
       {
         "title": "Drawables",
@@ -118,8 +110,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"        
       },
       {
         "title": "Traceview",
@@ -131,8 +122,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"        
       },
       {
         "title": "Effective Android Messaging",
@@ -144,8 +134,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"        
       },
       {
         "title": "Bluetooth & USB for Android",
@@ -157,8 +146,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"        
       },
       {
         "title": "Exploring SDK add-ons for Android Devices",
@@ -170,8 +158,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"        
       },
       {
         "title": "Mastering the Android Touch System",
@@ -183,8 +170,7 @@
         "site" : "newcircle",
         "site_url": "https://thenewcircle.com",
         "lang": "en",
-        "image": "newcircle.jpg",
-        "publish": true
+        "image": "newcircle.jpg"        
       },
       {
         "title": "Getting Started",
@@ -196,8 +182,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"        
       },
       {
         "title": "UI Designer",
@@ -209,8 +194,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"        
       }
     ]
   }

@@ -17,8 +17,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "Secrets of DevTools - Elements",
@@ -29,8 +28,7 @@
         "published_at": "20150213",
         "site" : "Zeno Rocha",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Secrets of DevTools - Style",
@@ -41,8 +39,7 @@
         "published_at": "20150213",
         "site" : "Zeno Rocha",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Secrets of DevTools - Workspaces",
@@ -53,8 +50,7 @@
         "published_at": "20150213",
         "site" : "Zeno Rocha",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Secrets of DevTools - Console",
@@ -65,8 +61,7 @@
         "published_at": "20150213",
         "site" : "Zeno Rocha",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Secrets of DevTools - Debug",
@@ -77,8 +72,7 @@
         "published_at": "20150213",
         "site" : "Zeno Rocha",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       }
     ]
   }

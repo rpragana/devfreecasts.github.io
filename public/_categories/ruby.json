@@ -17,8 +17,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "The Params Hash",
@@ -30,8 +29,7 @@
         "site" : "GoRails",
         "site_url": "https://gorails.com/",
         "image": "gorails.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Constructors",
@@ -43,8 +41,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       },
       {
         "title": "Methods and Messages",
@@ -56,8 +53,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       },
       {
         "title": "Struct",
@@ -69,8 +65,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       },
       {
         "title": "Macros and Modules",
@@ -82,8 +77,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       },
       {
         "title": "Callable",
@@ -95,8 +89,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       },
       {
         "title": "Streaming",
@@ -108,8 +101,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       },
       {
         "title": "Utility Function",
@@ -121,8 +113,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       },
       {
         "title": "Caching an API",
@@ -134,8 +125,7 @@
         "site" : "RubyTapas",
         "site_url": "http://www.rubytapas.com",
         "lang": "en",
-        "image": "rubytapas.jpg",
-        "publish": true
+        "image": "rubytapas.jpg"
       },
       {
         "title": "Auth with Ruby Introduction",
@@ -147,8 +137,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "Auth with Ruby Rack Application Setup",
@@ -160,8 +149,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "Ruby MVC from Scratch Introduction",
@@ -173,8 +161,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "Ruby MVC from Scratch Rack Basics",
@@ -186,8 +173,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
+        "image": "tutsplus.jpg"
       }
     ]
   }

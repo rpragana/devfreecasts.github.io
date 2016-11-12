@@ -16,8 +16,7 @@
         "published_at": "20150213",
         "site": "Akita On Rails",
         "site_url": "http://www.akitaonrails.com/2012/04/09/screencasts-liberados-gratuitamente",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Show invisibles",
@@ -29,8 +28,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Tabs and spaces",
@@ -42,8 +40,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Whitespace preferences and filetypes",
@@ -55,8 +52,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Tidying whitespaces",
@@ -68,8 +64,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Indentation commands",
@@ -81,8 +76,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Working with buffers",
@@ -94,8 +88,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Working with windows",
@@ -107,8 +100,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Working with tabs",
@@ -120,8 +112,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Meet UltiSnips",
@@ -133,8 +124,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Operating on search matches using gn",
@@ -146,8 +136,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Using Vim's paste mode with the system paste command",
@@ -159,8 +148,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Search multiple files with :vimgrep",
@@ -172,8 +160,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Profiling Vimscript performance",
@@ -185,8 +172,7 @@
         "site" : "VimCasts",
         "site_url": "http://vimcasts.org",
         "image": "vimcasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       }
     ]
   }

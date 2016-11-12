@@ -17,7 +17,6 @@
         "site": "Hakka Labs",
         "site_url": "https://www.youtube.com/user/g33ktalktv/videos",
         "image": "hakka-labs.jpg",
-        "publish": true,
         "published_at": "20150417"
       },
       {
@@ -30,7 +29,6 @@
         "site": "Hakka Labs",
         "site_url": "https://www.youtube.com/user/g33ktalktv/videos",
         "image": "hakka-labs.jpg",
-        "publish": true,
         "published_at": "20150417"
       },
       {
@@ -43,7 +41,6 @@
         "site": "Hakka Labs",
         "site_url": "https://www.youtube.com/user/g33ktalktv/videos",
         "image": "hakka-labs.jpg",
-        "publish": true,
         "published_at": "20150417"
       },
       {
@@ -56,7 +53,6 @@
         "site": "Hakka Labs",
         "site_url": "https://www.youtube.com/user/g33ktalktv/videos",
         "image": "hakka-labs.jpg",
-        "publish": true,
         "published_at": "20150417"
       },
       {
@@ -69,7 +65,6 @@
         "site": "Hakka Labs",
         "site_url": "https://www.youtube.com/user/g33ktalktv/videos",
         "image": "hakka-labs.jpg",
-        "publish": true,
         "published_at": "20150417"
       },
       {
@@ -82,8 +77,7 @@
         "site": "The Go Programming Language",
         "site_url": "https://www.youtube.com/user/gocoding",
         "image": "golang.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "HTTP/2 for Go",
@@ -95,8 +89,7 @@
         "site": "The Go Programming Language",
         "site_url": "https://www.youtube.com/user/gocoding",
         "image": "golang.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Instalation",
@@ -107,8 +100,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Packages",
@@ -119,8 +111,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Remote Packages",
@@ -131,8 +122,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Variables",
@@ -143,8 +133,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Functions",
@@ -155,8 +144,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Loops",
@@ -167,8 +155,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - If statements",
@@ -179,8 +166,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Switch statements",
@@ -191,8 +177,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Structs",
@@ -203,8 +188,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - More Structs",
@@ -215,8 +199,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Methods",
@@ -227,8 +210,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Interfaces",
@@ -239,8 +221,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Closure",
@@ -251,8 +232,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Arrays",
@@ -263,8 +243,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Golang - Slices",
@@ -275,8 +254,7 @@
         "published_at": "20150213",
         "site": "Byte-size",
         "site_url": "https://www.youtube.com/playlist?list=PLB-tlgQ97VrdH1qcBKTghZQ09Qy5P1g2K",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Implementing a bignum calculator",
@@ -288,8 +266,7 @@
         "site": "The Go Programming Language",
         "site_url": "https://www.youtube.com/user/gocoding",
         "image": "golang.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Underscore library for Go",
@@ -301,8 +278,7 @@
         "site": "The Go Programming Language",
         "site_url": "https://www.youtube.com/user/gocoding",
         "image": "golang.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Writing, building, installing and testing Go code",
@@ -314,8 +290,7 @@
         "site": "The Go Programming Language",
         "site_url": "https://www.youtube.com/user/gocoding",
         "image": "golang.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Testing Techniques",
@@ -327,8 +302,7 @@
         "site": "The Go Programming Language",
         "site_url": "https://www.youtube.com/user/gocoding",
         "image": "golang.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Writing your own Go compiler",
@@ -340,8 +314,7 @@
         "site": "The Go Programming Language",
         "site_url": "https://www.youtube.com/user/gocoding",
         "image": "golang.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Using Go for a simple HTTP Request",
@@ -353,8 +326,7 @@
         "site": "Gocasts",
         "site_url": "https://gocasts.io/",
         "image": "go.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Using Go to fetch and parse JSON",
@@ -366,8 +338,7 @@
         "site": "Gocasts",
         "site_url": "https://gocasts.io/",
         "image": "go.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Concurrency with buffered channels",
@@ -379,8 +350,7 @@
         "site": "Gocasts",
         "site_url": "https://gocasts.io/",
         "image": "go.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Watching multiple channels",
@@ -392,8 +362,7 @@
         "site": "Gocasts",
         "site_url": "https://gocasts.io/",
         "image": "go.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "A Tour of Go",
@@ -405,8 +374,7 @@
         "site": "Russ Cox",
         "site_url": "https://www.youtube.com/user/rscgolang/videos",
         "image": "russcox.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Deploying Web Apps to Heroku",
@@ -418,8 +386,7 @@
         "site" : "GopherCasts",
         "site_url": "https://gophercasts.io",
         "image": "gophercasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Getting Started with Go",
@@ -431,8 +398,7 @@
         "site" : "GopherCasts",
         "site_url": "https://gophercasts.io",
         "image": "gophercasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Go Language Basics",
@@ -444,8 +410,7 @@
         "site" : "GopherCasts",
         "site_url": "https://gophercasts.io",
         "image": "gophercasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Martini and Markdown",
@@ -457,8 +422,7 @@
         "site" : "GopherCasts",
         "site_url": "https://gophercasts.io",
         "image": "gophercasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Postgres: Basics",
@@ -470,8 +434,7 @@
         "site" : "GopherCasts",
         "site_url": "https://gophercasts.io",
         "image": "gophercasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "HTML Templates",
@@ -483,8 +446,7 @@
         "site" : "GopherCasts",
         "site_url": "https://gophercasts.io",
         "image": "gophercasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Postgres: Inserting Data",
@@ -496,8 +458,7 @@
         "site" : "GopherCasts",
         "site_url": "https://gophercasts.io",
         "image": "gophercasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Auth: Part 1",
@@ -509,8 +470,7 @@
         "site" : "GopherCasts",
         "site_url": "https://gophercasts.io",
         "image": "gophercasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Auth: Part 2",
@@ -522,8 +482,7 @@
         "site" : "GopherCasts",
         "site_url": "https://gophercasts.io",
         "image": "gophercasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Auth: Part 3",
@@ -535,8 +494,7 @@
         "site" : "GopherCasts",
         "site_url": "https://gophercasts.io",
         "image": "gophercasts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       }
     ]
   }

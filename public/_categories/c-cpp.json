@@ -17,8 +17,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Modularization and ADT",
@@ -30,8 +29,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Definition of a List",
@@ -43,8 +41,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Sequential List",
@@ -56,8 +53,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Implementing a Static List",
@@ -69,8 +65,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Concepts about Static List",
@@ -82,8 +77,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Inserting Datas in a Static List",
@@ -95,8 +89,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Removing Datas in a Static List",
@@ -108,8 +101,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Searching Data in a Static List",
@@ -121,8 +113,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Definition about Dynamic Linked List",
@@ -134,8 +125,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Implementation of Dynamic Linked List",
@@ -147,8 +137,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Dynamic Linked List: Concepts",
@@ -160,8 +149,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Inserting Data in a Dynamic Linked List",
@@ -173,8 +161,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Removing Data in a Dynamic Linked List",
@@ -186,8 +173,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Searching Data in a Dynamic Linked List",
@@ -199,8 +185,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Definition of a Doubly Linked List",
@@ -212,8 +197,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Implementing a Doubly Linked List",
@@ -225,8 +209,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Doubly Linked List: Concepts",
@@ -238,8 +221,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Inserting data in a Doubly Linked List",
@@ -251,8 +233,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Introducing Doubly Chained List",
@@ -264,8 +245,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Querying in a Doubly Chained List",
@@ -277,8 +257,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Circular List",
@@ -290,8 +269,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Implementing a Circular List",
@@ -303,8 +281,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Circular List: Definition",
@@ -316,8 +293,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Inserting Data in a Circular List",
@@ -329,8 +305,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Removing Data in a Circular List",
@@ -342,8 +317,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Querying Data in a Circular List",
@@ -355,8 +329,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Queue: Definition",
@@ -368,8 +341,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Creating and Destroying a Static Queue",
@@ -381,8 +353,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Static Queue: Definition",
@@ -394,8 +365,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Static Queue: Inserting and Removing Data",
@@ -407,8 +377,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Creating and Destroying a Dynamic Queue",
@@ -420,8 +389,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Dynamics Queue Definition",
@@ -433,8 +401,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Dynamic Queue: Inserting and Removing Data",
@@ -446,8 +413,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Stack: Definition",
@@ -459,8 +425,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Static Stack: Definition",
@@ -472,8 +437,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Static Stack: Inserting and Removing Data",
@@ -485,8 +449,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Dynamic Stack: Introduction",
@@ -498,8 +461,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Dynamic Stack: Definitions",
@@ -511,8 +473,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Dynamic Stack: Inserting and Removing Data",
@@ -524,8 +485,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Search in Struct Vector",
@@ -537,8 +497,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Concepts of Ordering's Datas",
@@ -550,8 +509,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Ordering: BubbleSort",
@@ -563,8 +521,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Ordering: Insertion Sort",
@@ -576,8 +533,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Ordering: Selection Sort",
@@ -589,8 +545,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Ordering: Merge Sort",
@@ -602,8 +557,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Ordering: Quick Sort",
@@ -615,8 +569,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Ordering data using Heap Sort function",
@@ -628,8 +581,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Ordering in a Struct Vector",
@@ -641,8 +593,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Ordering Datas using Qsort function",
@@ -654,8 +605,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Graphs: Definition",
@@ -667,8 +617,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Graphs: Properties",
@@ -680,8 +629,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Types of Graphs Part 1",
@@ -693,8 +641,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Types of Graphs Part 2",
@@ -706,8 +653,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Representation of Graphs Part 1",
@@ -719,8 +665,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Graph Representation Part 2",
@@ -732,8 +677,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Search in Graphs Part 1",
@@ -745,8 +689,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Search in Graphs Part 2",
@@ -758,8 +701,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Search in Graphs Part 3",
@@ -771,8 +713,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Search in Graphs Part 4",
@@ -784,8 +725,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Trees: Concepts",
@@ -797,8 +737,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Trees: Properties",
@@ -810,8 +749,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Binary Tree: Definition",
@@ -823,8 +761,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Binary Tree: Implementation",
@@ -836,8 +773,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Creating and Destroying a Binary Tree",
@@ -849,8 +785,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Binary Tree: Concepts",
@@ -862,8 +797,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Winding through a Binary Tree",
@@ -875,8 +809,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Binary Tree Search: Concepts",
@@ -888,8 +821,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Binary Tree Search: Inserting Datas",
@@ -901,8 +833,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Binary Tree Search: Removing Datas",
@@ -914,8 +845,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "Binary Tree Search: Finding Datas",
@@ -927,8 +857,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "AVL Trees: Definitions",
@@ -940,8 +869,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "AVL tree: Rotation Types Part 1",
@@ -953,8 +881,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "AVL Trees: Rotation Types Part 2",
@@ -966,8 +893,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "AVL Trees: Implementing Rotations",
@@ -979,8 +905,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "AVL Trees: Inserting Data",
@@ -992,8 +917,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       },
       {
           "title": "AVL Trees: Removing Data",
@@ -1005,8 +929,7 @@
           "site": "Programação Descomplicada",
           "site_url": "https://programacaodescomplicada.wordpress.com",
           "lang": "pt-br",
-          "image": "programacao_descomplicada.jpg",
-          "publish": true
+          "image": "programacao_descomplicada.jpg"          
       }
     ]
   }

@@ -17,8 +17,7 @@
         "site" : "SWIFTCAST",
         "site_url": "https://swiftcast.tv/screencasts",
         "image": "swiftcast.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Animation Design (Part 2/3)",
@@ -30,8 +29,7 @@
         "site" : "SWIFTCAST",
         "site_url": "https://swiftcast.tv/screencasts",
         "image": "swiftcast.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Form Validation in Swift",
@@ -43,8 +41,7 @@
         "site" : "SWIFTCAST",
         "site_url": "https://swiftcast.tv/screencasts",
         "image": "swiftcast.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swiftly Testing with Quick",
@@ -56,8 +53,7 @@
         "site" : "SWIFTCAST",
         "site_url": "https://swiftcast.tv/screencasts",
         "image": "swiftcast.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Prototyping with Xcode",
@@ -69,8 +65,7 @@
         "site" : "SWIFTCAST",
         "site_url": "https://swiftcast.tv/screencasts",
         "image": "swiftcast.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 1",
@@ -82,8 +77,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 2",
@@ -95,8 +89,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 3",
@@ -108,8 +101,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 4",
@@ -121,8 +113,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 5",
@@ -134,8 +125,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 6",
@@ -147,8 +137,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 7",
@@ -160,8 +149,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 8",
@@ -173,8 +161,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 9",
@@ -186,8 +173,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 10",
@@ -199,8 +185,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 11",
@@ -212,8 +197,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 12",
@@ -225,8 +209,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Swift Basics to Advanced - Part 13",
@@ -238,8 +221,7 @@
         "site" : "Marcelo Simões",
         "site_url": "https://www.youtube.com/user/mhgs11",
         "image": "swift.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Objective-C Basics",
@@ -251,8 +233,7 @@
         "site" : "NSScreencast",
         "site_url": "http://nsscreencast.com",
         "image": "nsscreencast.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Diagnosing Memory Problems",
@@ -264,8 +245,7 @@
         "site" : "NSScreencast",
         "site_url": "http://nsscreencast.com",
         "image": "nsscreencast.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Serializing Data to Disk",
@@ -277,8 +257,7 @@
         "site" : "NSScreencast",
         "site_url": "http://nsscreencast.com",
         "image": "nsscreencast.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "New Objective-C Syntax",
@@ -290,8 +269,7 @@
         "site" : "NSScreencast",
         "site_url": "http://nsscreencast.com",
         "image": "nsscreencast.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Core Data Basics",
@@ -303,8 +281,7 @@
         "site" : "NSScreencast",
         "site_url": "http://nsscreencast.com",
         "image": "nsscreencast.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Importing into Core Data",
@@ -316,8 +293,7 @@
         "site" : "NSScreencast",
         "site_url": "http://nsscreencast.com",
         "image": "nsscreencast.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Automatic Reference Counting",
@@ -329,8 +305,7 @@
         "site" : "NSScreencast",
         "site_url": "http://nsscreencast.com",
         "image": "nsscreencast.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Xcode 5 Autolayout Improvements",
@@ -342,8 +317,7 @@
         "site" : "NSScreencast",
         "site_url": "http://nsscreencast.com",
         "image": "nsscreencast.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Hello, iOS 7",
@@ -355,8 +329,7 @@
         "site" : "NSScreencast",
         "site_url": "http://nsscreencast.com",
         "image": "nsscreencast.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       }
     ]
   }

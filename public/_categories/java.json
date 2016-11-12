@@ -17,8 +17,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Java Server Faces Tutorial 2 - First Project",
@@ -30,8 +29,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Java Server Faces Tutorial 3 - Simple Form/Navigation Rules",
@@ -43,8 +41,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Java Server Faces Tutorial 4 - Managed Bean",
@@ -56,8 +53,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Java Server Faces Tutorial 5 - Ajax in JSF",
@@ -69,8 +65,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Java Server Faces Tutorial 6 - Calling methods in JSF",
@@ -82,8 +77,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Java Server Faces Tutorial 7 - Including another JSF file",
@@ -95,8 +89,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Java Server Faces Tutorial 8 - User Interface Components in JSF",
@@ -108,8 +101,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Hibernate Tutorial 1 - Introduction/Setup",
@@ -121,8 +113,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Hibernate Tutorial 2 - Saving data into database",
@@ -134,8 +125,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Hibernate Tutorial 3 - Getting records from database",
@@ -147,8 +137,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Java 8: Lambdas and new APIs",
@@ -160,8 +149,7 @@
         "site" : "Conexão Java",
         "site_url": "http://www.conexaojava.com.br",
         "image": "conexao-java.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Java 8's JVM",
@@ -173,8 +161,7 @@
         "site" : "Conexão Java",
         "site_url": "http://www.conexaojava.com.br",
         "image": "conexao-java.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Introduction OOP",
@@ -186,8 +173,7 @@
         "site" : "Excript",
         "site_url": "http://www.excript.com",
         "image": "excript.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Object Introduction",
@@ -199,8 +185,7 @@
         "site" : "Excript",
         "site_url": "http://www.excript.com",
         "image": "excript.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Class",
@@ -212,8 +197,7 @@
         "site" : "Excript",
         "site_url": "http://www.excript.com",
         "image": "excript.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Class attributes",
@@ -225,8 +209,7 @@
         "site" : "Excript",
         "site_url": "http://www.excript.com",
         "image": "excript.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Functions and Methods",
@@ -238,8 +221,7 @@
         "site" : "Excript",
         "site_url": "http://www.excript.com",
         "image": "excript.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Parameters and arguments",
@@ -251,8 +233,7 @@
         "site" : "Excript",
         "site_url": "http://www.excript.com",
         "image": "excript.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Instances",
@@ -264,8 +245,7 @@
         "site" : "Excript",
         "site_url": "http://www.excript.com",
         "image": "excript.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Overloading methods",
@@ -277,8 +257,7 @@
         "site" : "Excript",
         "site_url": "http://www.excript.com",
         "image": "excript.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       },
       {
         "title": "Instances",
@@ -290,8 +269,7 @@
         "site" : "Excript",
         "site_url": "http://www.excript.com",
         "image": "excript.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"        
       }
     ]
   }

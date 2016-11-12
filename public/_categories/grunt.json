@@ -17,8 +17,7 @@
         "site" : "DevCast",
         "site_url": "http://www.youtube.com/user/DevCastVideos",
         "image": "devcast.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Task Automation with GruntJS",
@@ -29,8 +28,7 @@
         "published_at": "20150213",
         "site" : "Hugo Bessa",
         "site_url": "http://www.hugobessa.com.br",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Introduction to Grunt",
@@ -42,8 +40,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Multitask",
@@ -55,8 +52,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Minifying your output with Grunt uglify",
@@ -68,8 +64,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       }
     ]
   }

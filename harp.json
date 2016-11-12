@@ -26,17 +26,6 @@
       "about": "A collection of newsletters for developers subscribe",
       "url": "https://devnewsletters.github.io?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
     },
-    "utm": "utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts",
-    "platforms": ["nodejs", "meteor", "angularjs",
-                  "react", "backbone", "javascript",
-                  "rails","ruby", "go",
-                  "grunt", "elixir", "scala",
-                  "python","grails", "php",
-                  "ios","android", "java",
-                  "vim", "chrome-devtools", "git",
-                  "famous", "playframework", "haskell",
-                  "polymer","django", "csharp",
-                  "emberjs", "gulp", "css" ,
-                  "c_cpp", "html"]
+    "utm": "utm_source=devfreecasts&utm_medium=medium&utm_campaign=DevFreeCasts"
   }
 }

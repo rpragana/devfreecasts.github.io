@@ -17,8 +17,7 @@
         "site" : "LevelUP Tutorials",
         "site_url": "http://leveluptuts.com/tutorials",
         "image": "levelup-tutorials.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Installing Polymer and Project setup",
@@ -30,8 +29,7 @@
         "site" : "LevelUP Tutorials",
         "site_url": "http://leveluptuts.com/tutorials",
         "image": "levelup-tutorials.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Creating our first element",
@@ -43,8 +41,7 @@
         "site" : "LevelUP Tutorials",
         "site_url": "http://leveluptuts.com/tutorials",
         "image": "levelup-tutorials.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Default and overriding styles",
@@ -56,8 +53,7 @@
         "site" : "LevelUP Tutorials",
         "site_url": "http://leveluptuts.com/tutorials",
         "image": "levelup-tutorials.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Custom attributes in Polymer",
@@ -69,8 +65,7 @@
         "site" : "LevelUP Tutorials",
         "site_url": "http://leveluptuts.com/tutorials",
         "image": "levelup-tutorials.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Basic Data-Binding and Iteration",
@@ -82,8 +77,7 @@
         "site" : "LevelUP Tutorials",
         "site_url": "http://leveluptuts.com/tutorials",
         "image": "levelup-tutorials.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Basic Two-way data-binding and click events",
@@ -95,8 +89,7 @@
         "site" : "LevelUP Tutorials",
         "site_url": "http://leveluptuts.com/tutorials",
         "image": "levelup-tutorials.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Layout attributes",
@@ -108,8 +101,7 @@
         "site" : "LevelUP Tutorials",
         "site_url": "http://leveluptuts.com/tutorials",
         "image": "levelup-tutorials.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Core Icons -- Polycasts #01",
@@ -120,8 +112,7 @@
         "published_at": "20150213",
         "site" : "Rob Dodson",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Core Iconset -- Polycasts #02",
@@ -132,8 +123,7 @@
         "published_at": "20150213",
         "site" : "Rob Dodson",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Core Toolbar -- Polycasts #03",
@@ -144,8 +134,7 @@
         "published_at": "20150213",
         "site" : "Rob Dodson",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Core Header Panel -- Polycasts #04",
@@ -156,8 +145,7 @@
         "published_at": "20150213",
         "site" : "Rob Dodson",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Core Drawer Panel -- Polycasts #05",
@@ -168,8 +156,7 @@
         "published_at": "20150213",
         "site" : "Rob Dodson",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "What's new in Polymer 0.5.1 -- Polycasts #06",
@@ -180,8 +167,7 @@
         "published_at": "20150213",
         "site" : "Rob Dodson",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title":"Season's greetings! -- Polycasts #07",
@@ -192,8 +178,7 @@
         "published_at": "20150213",
         "site" : "Rob Dodson",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "The Awesome Power of Auto-Binding Templates -- Polycasts #08",
@@ -204,8 +189,7 @@
         "published_at": "20150213",
         "site" : "Rob Dodson",
         "site_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Polymer 101 Part 1: Hello World",
@@ -216,8 +200,7 @@
         "published_at": "20150213",
         "site" : "Joe Maddalone",
         "site_url": "https://www.youtube.com/playlist?list=PLKiuVKZics1fJqQnKGyTjdulTKkzYHn9u",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Polymer: Extend HTML Elements",
@@ -228,8 +211,7 @@
         "published_at": "20150213",
         "site" : "Joe Maddalone",
         "site_url": "https://www.youtube.com/playlist?list=PLKiuVKZics1fJqQnKGyTjdulTKkzYHn9u",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Polymer: Styling custom elements",
@@ -240,8 +222,7 @@
         "published_at": "20150213",
         "site" : "Joe Maddalone",
         "site_url": "https://www.youtube.com/playlist?list=PLKiuVKZics1fJqQnKGyTjdulTKkzYHn9u",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Polymer: Filters",
@@ -252,8 +233,7 @@
         "published_at": "20150213",
         "site" : "Joe Maddalone",
         "site_url": "https://www.youtube.com/playlist?list=PLKiuVKZics1fJqQnKGyTjdulTKkzYHn9u",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Polymer: template repeat",
@@ -264,8 +244,7 @@
         "published_at": "20150213",
         "site" : "Joe Maddalone",
         "site_url": "https://www.youtube.com/playlist?list=PLKiuVKZics1fJqQnKGyTjdulTKkzYHn9u",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Polymer: core-ajax",
@@ -276,8 +255,7 @@
         "published_at": "20150213",
         "site" : "Joe Maddalone",
         "site_url": "https://www.youtube.com/playlist?list=PLKiuVKZics1fJqQnKGyTjdulTKkzYHn9u",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
        {
         "title": "Polymer: Changed Watchers and Observe Blocks ",
@@ -288,8 +266,7 @@
         "published_at": "20150213",
         "site" : "Joe Maddalone",
         "site_url": "https://www.youtube.com/playlist?list=PLKiuVKZics1fJqQnKGyTjdulTKkzYHn9u",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       }
     ]
   }

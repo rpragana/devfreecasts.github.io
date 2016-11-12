@@ -9,12 +9,11 @@
     "videos": [
       {
         "title": "Buiding a TCP chat server",
-		"description": "Learning how to building a TCP chat serve with node.js",
+		    "description": "Learning how to building a TCP chat serve with node.js",
         "duration": "17:20",
-		"site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+		    "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "a",
         "url": "https://www.youtube.com/watch?v=hwiv-BbpDWk",
         "image": "nodecaiocutrimclass.png",
@@ -22,12 +21,11 @@
       },
       {
         "title": "Understanding Node.js's streams interface",
-		"description": "That is an advanced concept of streams interface and how to work with it in node.js",
+		    "description": "That is an advanced concept of streams interface and how to work with it in node.js",
         "duration": "28:20",
-		"site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+		    "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "a",
         "url": "https://www.youtube.com/watch?v=Gq1s4gIXYJ8",
         "image": "nodecaiocutrimclass.png",
@@ -35,12 +33,11 @@
       },
       {
         "title": "Understanding Node.js's streams interface",
-		"description": "That is an advanced concept of streams interface and how to work with it in node.js",
+		    "description": "That is an advanced concept of streams interface and how to work with it in node.js",
         "duration": "28:20",
-		"site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+		    "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "a",
         "url": "https://www.youtube.com/watch?v=Gq1s4gIXYJ8",
         "image": "nodecaiocutrimclass.png",
@@ -48,12 +45,11 @@
       },
       {
         "title": "Closing files and understanding process",
-		"description": "How to work with process and spawing child process in node.js",
+		    "description": "How to work with process and spawing child process in node.js",
         "duration": "1:03:45",
-		"site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+		    "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "a",
         "url": "https://www.youtube.com/watch?v=zsjwApveXE0",
         "image": "nodecaiocutrimclass.png",
@@ -61,12 +57,11 @@
       },
       {
         "title": "Files",
-		"description": "How to work with files in node.js",
+		    "description": "How to work with files in node.js",
         "duration": "38:25",
-		"site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+		    "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "i",
         "url": "https://www.youtube.com/watch?v=Qp5njA8LZ34",
         "image": "nodecaiocutrimclass.png",
@@ -74,12 +69,11 @@
       },
       {
         "title": "Streams one more time and how to create a http server of static files",
-		"description": "How to create a http server of static files and one more little about streams in node",
+		    "description": "How to create a http server of static files and one more little about streams in node",
         "duration": "29:52",
-		"site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+		    "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "i",
         "url": "https://www.youtube.com/watch?v=innhE9xA7f8",
         "image": "nodecaiocutrimclass.png",
@@ -87,12 +81,11 @@
       },
       {
         "title": "Timers and blocking envent-loop",
-		"description": "Learning how to blocking the event loop of node.js and understanding timer functions",
+		    "description": "Learning how to blocking the event loop of node.js and understanding timer functions",
         "duration": "19:19",
-		"site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+		    "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "b",
         "url": "https://www.youtube.com/watch?v=cnbOd3Jadr0",
         "image": "nodecaiocutrimclass.png",
@@ -100,12 +93,11 @@
       },
       {
         "title": "Buffers, how to handling binary data or octect streams",
-		"description": "Learning how to work with buffers and handling binary data with node.js" ,
+		    "description": "Learning how to work with buffers and handling binary data with node.js" ,
         "duration": "36:52",
-		"site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+		    "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "i",
         "url": "https://www.youtube.com/watch?v=yqtsmAWQzmw",
         "image": "nodecaiocutrimclass.png",
@@ -113,12 +105,11 @@
       },
       {
         "title": "Modules and request http serve",
-		"description": "Learning how to work with modules and building a http server request." ,
+		    "description": "Learning how to work with modules and building a http server request." ,
         "duration": "26:13",
-		"site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+	      "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "i",
         "url": "https://www.youtube.com/watch?v=vk0UeGju4TQ",
         "image": "nodecaiocutrimclass.png",
@@ -126,12 +117,11 @@
       },
       {
         "title": "Understanding first class object and closures",
-		"description": "Learning how to work with closures and understanding first-class-object in node." ,
+		    "description": "Learning how to work with closures and understanding first-class-object in node." ,
         "duration": "21:17",
-		"site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+	      "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "i",
         "url": "https://www.youtube.com/watch?v=AGZKf0lsgBE",
         "image": "nodecaiocutrimclass.png",
@@ -139,12 +129,11 @@
       },
       {
         "title": "Introduction to event emitter pattern of node.js",
-		"description": "Learning how to work with events in node. It's a basic introduction to event emitter pattern. It is essencial to work with node. This is the first class of free nodejs's course." ,
+		    "description": "Learning how to work with events in node. It's a basic introduction to event emitter pattern. It is essencial to work with node. This is the first class of free nodejs's course." ,
         "duration": "20:11",
-        "site" : "Caio Cutrim",
-        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw", 
+        "site": "Caio Cutrim",
+        "site_url": "https://www.youtube.com/channel/UC1ITepluIPnUJXRYQ6K4Svw",
         "lang": "PT-BR",
-        "publish": true,
         "level": "b",
         "url": "https://www.youtube.com/watch?v=f0PeAqHeoZg",
         "image": "nodecaiocutrimclass.png",
@@ -160,7 +149,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -173,7 +161,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -186,7 +173,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -199,7 +185,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -212,7 +197,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -225,7 +209,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -238,7 +221,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -251,7 +233,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -264,7 +245,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -277,7 +257,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -290,7 +269,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -303,7 +281,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -316,7 +293,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -329,7 +305,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -342,7 +317,6 @@
         "site": "Node Tuts",
         "site_url": "http://nodetuts.com/",
         "image": "nodetuts.jpg",
-        "publish": true,
         "published_at": "20150421"
       },
       {
@@ -354,7 +328,7 @@
         "site_url": "https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg",
         "lang": "EN",
         "image": "nodejs-fan.jpg",
-        "publish": true,
+
         "level": "b",
         "url": "https://www.youtube.com/watch?v=4oXdl2oE43g",
         "published_at": "20150309"
@@ -367,7 +341,6 @@
         "site" : "NodeJS Fan",
         "site_url": "https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg",
         "lang": "EN",
-        "publish": true,
         "image": "nodejs-fan.jpg",
         "level": "b",
         "url": "https://www.youtube.com/watch?v=pt53_Nr_dZU",
@@ -382,7 +355,6 @@
         "site_url": "https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg",
         "lang": "EN",
         "image": "nodejs-fan.jpg",
-        "publish": true,
         "level": "b",
         "url": "https://www.youtube.com/watch?v=cTBUAKnOexo",
         "published_at": "20150309"
@@ -396,7 +368,6 @@
         "site_url": "https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg",
         "lang": "EN",
         "image": "nodejs-fan.jpg",
-        "publish": true,
         "level": "b",
         "url": "https://www.youtube.com/watch?v=1b831QnPIeo",
         "published_at": "20150309"
@@ -410,7 +381,6 @@
         "site_url": "https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg",
         "lang": "EN",
         "image": "nodejs-fan.jpg",
-        "publish": true,
         "level": "b",
         "url": "https://www.youtube.com/watch?v=WOVmr6CjgNw",
         "published_at": "20150309"
@@ -424,7 +394,6 @@
         "site_url": "https://www.youtube.com/channel/UChTJTbr5kf3hYazJZO-euHg",
         "lang": "EN",
         "image": "nodejs-fan.jpg",
-        "publish": true,
         "level": "b",
         "url": "https://www.youtube.com/watch?v=FVdH9YcB3Dg",
         "published_at": "20150309"
@@ -437,7 +406,6 @@
         "site" : "HapiDay",
         "site_url": "http://hapijs.com/hapidays",
         "lang": "EN",
-        "publish": true,
         "level": "b",
         "url": "https://www.youtube.com/watch?v=5DzVe8lrqoo",
         "published_at": "20150307"
@@ -452,8 +420,7 @@
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Serving Content in Koajs with Jade",
@@ -465,8 +432,7 @@
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Serving Content in Koajs with Swig",
@@ -478,8 +444,7 @@
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Serving Content in Koajs with Marko",
@@ -491,8 +456,7 @@
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Ditching Cookies for JSON Web Tokens",
@@ -504,8 +468,7 @@
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "NPM and Node.js packages",
@@ -516,8 +479,7 @@
         "published_at": "20150213",
         "site" : "TutsOwl",
         "site_url": "http://www.tutsowl.com",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "How to create and use Node.js",
@@ -528,8 +490,7 @@
         "published_at": "20150213",
         "site" : "TutsOwl",
         "site_url": "http://www.tutsowl.com",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Koajs QuickStart Guide",
@@ -541,8 +502,7 @@
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Writing Middleware in Koajs",
@@ -554,8 +514,7 @@
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Creating Models in Koajs",
@@ -567,8 +526,7 @@
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Understanding JavaScript Generators",
@@ -580,8 +538,7 @@
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Callbacks vs. Generators",
@@ -593,8 +550,7 @@
         "site" : "KnowThen",
         "site_url": "http://knowthen.com",
         "image": "knowthen.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "0 to Nodebots in 45 minutes",
@@ -606,8 +562,7 @@
         "site" : "Nodevember",
         "site_url": "http://nodevember.org/",
         "image": "nodevember.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Production-ready Node Architecture",
@@ -619,8 +574,7 @@
         "site" : "Nodevember",
         "site_url": "http://nodevember.org/",
         "image": "nodevember.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Develop, Deploy, Monitor and Scale REST APIs Built in Node.js",
@@ -632,8 +586,7 @@
         "site" : "Nodevember",
         "site_url": "http://nodevember.org/",
         "image": "nodevember.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Protecting against csrf attacks in node",
@@ -645,8 +598,7 @@
         "site" : "Learn All The Nodes",
         "site_url": "http://www.learnallthenodes.com",
         "image": "learnallthenodes.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Anatomy of a cross-site request forgery attack",
@@ -658,8 +610,7 @@
         "site" : "Learn All The Nodes",
         "site_url": "http://www.learnallthenodes.com",
         "image": "learnallthenodes.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "How to structure a Node app",
@@ -671,8 +622,7 @@
         "site" : "Learn All The Nodes",
         "site_url": "http://www.learnallthenodes.com",
         "image": "learnallthenodes.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "NVM: Node Package Manager",
@@ -684,8 +634,7 @@
         "site" : "Learn All The Nodes",
         "site_url": "http://www.learnallthenodes.com",
         "image": "learnallthenodes.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Auto-restart your server with this weird trick",
@@ -697,8 +646,7 @@
         "site" : "Learn All The Nodes",
         "site_url": "http://www.learnallthenodes.com",
         "image": "learnallthenodes.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Authorization with Passport - Part 1",
@@ -710,8 +658,7 @@
         "site" : "Learn All The Nodes",
         "site_url": "http://www.learnallthenodes.com",
         "image": "learnallthenodes.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Authorization with Passport - Part 2",
@@ -723,8 +670,7 @@
         "site" : "Learn All The Nodes",
         "site_url": "http://www.learnallthenodes.com",
         "image": "learnallthenodes.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Testing in Node.js",
@@ -736,8 +682,7 @@
         "site" : "Learn All The Nodes",
         "site_url": "http://www.learnallthenodes.com",
         "image": "learnallthenodes.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "More advanced Jade",
@@ -749,8 +694,7 @@
         "site" : "Learn All The Nodes",
         "site_url": "http://www.learnallthenodes.com",
         "image": "learnallthenodes.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "10 Reasons to choose Node.js",
@@ -761,8 +705,7 @@
         "published_at": "20150213",
         "site" : "Zaringa Tongy",
         "site_url": "https://www.youtube.com/user/zarigatongy/videos",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Building Distributed Systems with Node.js and ØMQ",
@@ -773,8 +716,7 @@
         "published_at": "20150213",
         "site" : "Jim R. Wilson",
         "site_url": "https://www.youtube.com/channel/UC0yNbk3zJMvB_HAlf-2eEIw/videos",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Migrate to Express 4",
@@ -786,8 +728,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "npm init",
@@ -799,8 +740,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "CommonJS Basics Introduction",
@@ -812,8 +752,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "What are CommonJS Modules?",
@@ -825,8 +764,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Introduction to Browserify",
@@ -838,21 +776,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en",
-        "publish": true
-      },
-      {
-        "title": "Node.js + MongoDB",
-        "description": "A hangouts about using Node.js with MongoDB.",
-        "duration": "43:21",
-        "level": "i",
-        "url": "http://www.youtube.com/watch?v=0lTWkG_hH5M",
-        "published_at": "20150213",
-        "site" : "DevCast",
-        "site_url": "http://www.youtube.com/user/DevCastVideos",
-        "image": "devcast.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Node Streams",
@@ -864,8 +788,7 @@
         "site" : "TagTree",
         "site_url": "http://tagtree.tv",
         "image": "tagtree.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Building NPM Packages",
@@ -877,73 +800,7 @@
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
         "lang": "en",
-        "image": "tutsplus.jpg",
-        "publish": true
-      },
-      {
-        "title": "Introduction to Node.js",
-        "description": "What is Node.js and why might you want to use it?",
-        "duration": "6:40",
-        "level": "b",
-        "url": "http://nodecasts.net/episodes/1-introduction-to-nodejs",
-        "published_at": "20150213",
-        "site" : "NodeCasts",
-        "site_url": "http://nodecasts.net",
-        "image": "nodecasts.jpg",
-        "lang": "en",
-        "publish": true
-      },
-      {
-        "title": "Node.js First Steps",
-        "description": "We'll learn out how to install Node.js, as well as how to maintain different Node versions using NVM. We'll also build a basic HTTP server.",
-        "duration": "7:30",
-        "level": "b",
-        "url": "http://nodecasts.net/episodes/2-nodejs-first-steps",
-        "published_at": "20150213",
-        "site" : "NodeCasts",
-        "site_url": "http://nodecasts.net",
-        "image": "nodecasts.jpg",
-        "lang": "en",
-        "publish": true
-      },
-      {
-        "title": "Modules",
-        "description": "Modules are the building blocks of Node.js applications. Find out how to use them and how to create your own.",
-        "duration": "7:25",
-        "level": "b",
-        "url": "http://nodecasts.net/episodes/3-modules",
-        "published_at": "20150213",
-        "site" : "NodeCasts",
-        "site_url": "http://nodecasts.net",
-        "image": "nodecasts.jpg",
-        "lang": "en",
-        "publish": true
-      },
-      {
-        "title": "Packages and NPM",
-        "description": "Packages allow programmers to share their modules with the world. Find out how to use npm to install packages and manage package dependencies.",
-        "duration": "8:53",
-        "level": "b",
-        "url": "http://nodecasts.net/episodes/4-packages-and-npm",
-        "published_at": "20150213",
-        "site" : "NodeCasts",
-        "site_url": "http://nodecasts.net",
-        "image": "nodecasts.jpg",
-        "lang": "en",
-        "publish": true
-      },
-      {
-        "title": "Thinking Asynchronously",
-        "description": "This talk is about some common patterns and pitfalls for working in an asynchronous environment.",
-        "duration": "12:31",
-        "level": "i",
-        "url": "http://nodecasts.net/episodes/5-thinking-asynchronously",
-        "published_at": "20150213",
-        "site" : "NodeCasts",
-        "site_url": "http://nodecasts.net",
-        "image": "nodecasts.jpg",
-        "lang": "en",
-        "publish": true
+        "image": "tutsplus.jpg"
       },
       {
         "title": "Hapi 2.0",
@@ -953,7 +810,6 @@
         "site" : "AndYet",
         "site_url": "https://vimeo.com/andyet",
         "lang": "EN",
-        "publish": true,
         "level": "b",
         "url": "https://vimeo.com/85799484",
         "published_at": "20130204"
@@ -965,7 +821,6 @@
         "site" : "LetsWriteCode",
         "site_url": "https://www.youtube.com/user/kylerobinsonyoung",
         "lang": "EN",
-        "publish": true,
         "level": "b",
         "url": "https://www.youtube.com/watch?v=yOSNQZm3Trw",
         "image": "letswritecode-node-streams.png",
@@ -978,7 +833,6 @@
         "site" : "LetsWriteCode",
         "site_url": "https://www.youtube.com/user/kylerobinsonyoung",
         "lang": "EN",
-        "publish": true,
         "level": "b",
         "url": "https://youtu.be/ojX5yz35v4M",
         "image": "letswritecode-create-electron.png",

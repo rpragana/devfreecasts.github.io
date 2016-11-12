@@ -17,8 +17,7 @@
         "site" : "DjangoCon",
         "site_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3",
         "lang": "en",
-        "image": "django-con.jpg",
-        "publish": true
+        "image": "django-con.jpg"        
       },
       {
         "title": "The evolution of a RESTful Django backend",
@@ -30,8 +29,7 @@
         "site" : "DjangoCon",
         "site_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3",
         "lang": "en",
-        "image": "django-con.jpg",
-        "publish": true
+        "image": "django-con.jpg"        
       },
       {
         "title": "Setting up your development environment for Django",
@@ -43,8 +41,7 @@
         "site" : "DjangoCon",
         "site_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3",
         "lang": "en",
-        "image": "django-con.jpg",
-        "publish": true
+        "image": "django-con.jpg"        
       },
       {
         "title": "Practical Django Security",
@@ -56,8 +53,7 @@
         "site" : "DjangoCon",
         "site_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3",
         "lang": "en",
-        "image": "django-con.jpg",
-        "publish": true
+        "image": "django-con.jpg"        
       },
       {
         "title": "Anatomy of a Django Project",
@@ -69,8 +65,7 @@
         "site" : "DjangoCon",
         "site_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3",
         "lang": "en",
-        "image": "django-con.jpg",
-        "publish": true
+        "image": "django-con.jpg"        
       },
       {
         "title": "Real World Django Q&A",
@@ -82,8 +77,7 @@
         "site" : "DjangoCon",
         "site_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3",
         "lang": "en",
-        "image": "django-con.jpg",
-        "publish": true
+        "image": "django-con.jpg"        
       },
       {
         "title": "Performant Django",
@@ -95,8 +89,7 @@
         "site" : "DjangoCon",
         "site_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3",
         "lang": "en",
-        "image": "django-con.jpg",
-        "publish": true
+        "image": "django-con.jpg"        
       },
       {
         "title": "Digging into Django's Migrations",
@@ -108,8 +101,7 @@
         "site" : "DjangoCon",
         "site_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3",
         "lang": "en",
-        "image": "django-con.jpg",
-        "publish": true
+        "image": "django-con.jpg"        
       },
       {
         "title": "Geo+Django: Geo beyond the Django",
@@ -121,8 +113,7 @@
         "site" : "DjangoCon",
         "site_url": "https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3",
         "lang": "en",
-        "image": "django-con.jpg",
-        "publish": true
+        "image": "django-con.jpg"        
       },
       {
         "title": "Getting Started With Django, Lesson 01: Introduction and Launch",
@@ -134,8 +125,7 @@
         "site" : "Getting Started with Django",
         "site_url": "https://vimeo.com/gettingstartedwithdjango/videos",
         "lang": "en",
-        "image": "getting-started-with-django.jpg",
-        "publish": true
+        "image": "getting-started-with-django.jpg"        
       },
       {
         "title": "Getting Started With Django, Lesson 02: Microblog Kitchen Sink",
@@ -147,8 +137,7 @@
         "site" : "Getting Started with Django",
         "site_url": "https://vimeo.com/gettingstartedwithdjango/videos",
         "lang": "en",
-        "image": "getting-started-with-django.jpg",
-        "publish": true
+        "image": "getting-started-with-django.jpg"        
       },
       {
         "title": "Getting Started With Django, Lesson 03: Testing",
@@ -160,8 +149,7 @@
         "site" : "Getting Started with Django",
         "site_url": "https://vimeo.com/gettingstartedwithdjango/videos",
         "lang": "en",
-        "image": "getting-started-with-django.jpg",
-        "publish": true
+        "image": "getting-started-with-django.jpg"        
       },
       {
         "title": "Getting Started With Django, Lesson 04: Start Lending",
@@ -173,8 +161,7 @@
         "site" : "Getting Started with Django",
         "site_url": "https://vimeo.com/gettingstartedwithdjango/videos",
         "lang": "en",
-        "image": "getting-started-with-django.jpg",
-        "publish": true
+        "image": "getting-started-with-django.jpg"        
       },
       {
         "title": "Custom Django Admin Actions",
@@ -186,8 +173,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Project Templates with Cookiecutter",
@@ -199,8 +185,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Using Arrow for Better Datetime",
@@ -212,8 +197,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "The Class Based 'View'",
@@ -225,8 +209,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Understanding get_absolute_url",
@@ -238,8 +221,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Starting with django-allauth",
@@ -251,8 +233,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Stripe, Webhooks and dj-stripe",
@@ -264,8 +245,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Stripe and Starting dj-stripe",
@@ -277,8 +257,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Starting with Stripe.js",
@@ -290,8 +269,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Django 1.7 Migrations - An Introduction",
@@ -303,8 +281,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Better Models Through Custom Managers and QuerySets",
@@ -316,8 +293,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Compile and Compress Assets with django-pipeline",
@@ -329,8 +305,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "django-storages and AmazonS3",
@@ -342,8 +317,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Start Your API - django-rest-framework part 1",
@@ -355,8 +329,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Permissions & Authentication - django-rest-framework part 2",
@@ -368,8 +341,7 @@
         "site" : "GODjango",
         "site_url": "https://godjango.com/",
         "lang": "en",
-        "image": "godjango.jpg",
-        "publish": true
+        "image": "godjango.jpg"        
       },
       {
         "title": "Django Testing 1",
@@ -381,8 +353,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Django Testing 2",
@@ -394,8 +365,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Django Custom Template Tags",
@@ -407,8 +377,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       }
     ]
   }

@@ -17,8 +17,7 @@
         "site": "Typesafe",
         "site_url": "https://typesafe.com/resources/videos",
         "image": "typesafe.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Introduction to Play Framework for Java developers",
@@ -30,8 +29,7 @@
         "site": "Typesafe",
         "site_url": "https://typesafe.com/resources/videos",
         "image": "typesafe.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Play All Day: Enterprise Web Development with Play and Scala",
@@ -43,8 +41,7 @@
         "site": "Typesafe",
         "site_url": "https://typesafe.com/resources/videos",
         "image": "typesafe.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Play All Day: Reactive Streams and Play 3.0",
@@ -56,8 +53,7 @@
         "site": "Typesafe",
         "site_url": "https://typesafe.com/resources/videos",
         "image": "typesafe.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Play All Day: Playing with Akka",
@@ -69,8 +65,7 @@
         "site": "Typesafe",
         "site_url": "https://typesafe.com/resources/videos",
         "image": "typesafe.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       },
       {
         "title": "Optimizing Play for Production",
@@ -82,8 +77,7 @@
         "site": "Typesafe",
         "site_url": "https://typesafe.com/resources/videos",
         "image": "typesafe.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"        
       }
     ]
   }

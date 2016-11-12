@@ -16,8 +16,7 @@
         "published_at": "20150213",
         "site" : "Michael Kennedy",
         "site_url": "http://blog.michaelckennedy.net/",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Visual Studio and IDEs",
@@ -28,8 +27,7 @@
         "published_at": "20150213",
         "site" : "Michael Kennedy",
         "site_url": "http://blog.michaelckennedy.net/",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "A single, common base-type",
@@ -40,8 +38,7 @@
         "published_at": "20150213",
         "site" : "Michael Kennedy",
         "site_url": "http://blog.michaelckennedy.net/",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Foreach and IEnumerable",
@@ -52,8 +49,7 @@
         "published_at": "20150213",
         "site" : "Michael Kennedy",
         "site_url": "http://blog.michaelckennedy.net/",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Properties",
@@ -64,8 +60,7 @@
         "published_at": "20150213",
         "site" : "Michael Kennedy",
         "site_url": "http://blog.michaelckennedy.net/",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Anonymous Types",
@@ -76,8 +71,7 @@
         "published_at": "20150213",
         "site" : "Michael Kennedy",
         "site_url": "http://blog.michaelckennedy.net/",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Lambda Expressions",
@@ -88,8 +82,7 @@
         "published_at": "20150213",
         "site" : "Michael Kennedy",
         "site_url": "http://blog.michaelckennedy.net/",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Idiomatic Python",
@@ -101,8 +94,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Converting Python2 to Python3",
@@ -114,8 +106,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "CLI Applications and Packaging Part 1",
@@ -127,8 +118,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "CLI Applications and Packaging Part 2",
@@ -140,8 +130,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Python Decorators as Classes",
@@ -153,8 +142,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Python Decorators as Functions",
@@ -166,8 +154,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Python Exceptions",
@@ -179,8 +166,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Introduction to Pandas and Vicent",
@@ -192,8 +178,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Lambdas functions",
@@ -205,8 +190,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Iterables and Iterators",
@@ -218,8 +202,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Datetimes and Timezones",
@@ -231,8 +214,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       },
       {
         "title": "Python Mocking",
@@ -244,8 +226,7 @@
         "site" : "Neckbeard Republic",
         "site_url": "http://neckbeardrepublic.com/",
         "lang": "en",
-        "image": "neckbeardrepublic.jpg",
-        "publish": true
+        "image": "neckbeardrepublic.jpg"        
       }
     ]
   }

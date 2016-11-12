@@ -17,8 +17,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Backbone Tutorial 2 - Model",
@@ -30,8 +29,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Backbone Tutorial 3 - View",
@@ -43,8 +41,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Backbone Tutorial 4 - Router",
@@ -56,8 +53,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Backbone Tutorial 5 - Collections",
@@ -69,8 +65,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Backbone Tutorial - Create Simple app Part 1",
@@ -82,8 +77,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Backbone Tutorial - Create Simple app Part 2",
@@ -95,8 +89,7 @@
         "site" : "Creativity Tuts",
         "site_url": "http://creativitytuts.org",
         "image": "creativity-tuts.jpg",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Building Dialogs with Custom Regions",
@@ -107,8 +100,7 @@
         "published_at": "20150213",
         "site" : "BackboneRails",
         "site_url": "http://www.backbonerails.com",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Loading Views",
@@ -119,8 +111,7 @@
         "published_at": "20150213",
         "site" : "BackboneRails",
         "site_url": "http://www.backbonerails.com",
-        "lang": "en",
-        "publish": true
+        "lang": "en"
       },
       {
         "title": "Working with Backbone.js",
@@ -132,8 +123,7 @@
         "site" : "DevCast",
         "site_url": "http://www.youtube.com/user/DevCastVideos",
         "image": "devcast.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       },
       {
         "title": "Hands-on Backbone.js",
@@ -145,8 +135,7 @@
         "site" : "Pragmatic Programmers",
         "site_url": "https://www.youtube.com/channel/UCoSneYMkdoA4mV4SipGC94Q",
         "image": "pragprogs.jpg",
-        "lang": "pt-br",
-        "publish": true
+        "lang": "pt-br"
       }
     ]
   }
