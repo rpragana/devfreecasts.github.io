@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-11T01:11:30.542Z
+# rev 1 - 2016-11-12T16:47:41.438Z
 
 CACHE:
 404.html
@@ -105,14 +105,13 @@ assets/js/aightjs.min.js
 assets/js/application.js
 assets/js/html5shiv.min.js
 backbone/index.html
-c_cpp/index.html
+c-cpp/index.html
 chrome-devtools/index.html
 csharp/index.html
 css/index.html
 django/index.html
 elixir/index.html
 emberjs/index.html
-famous/index.html
 favicon.ico
 git/index.html
 go/index.html
