@@ -300,7 +300,7 @@
         "description": "Because ES6 is not finalized, we will not find an environment that implements 100% of the specification. There are two environments we'll use: Google Traceur and Firefox Nightly",
         "duration": "6:26",
         "level": "b",
-        "url": "http://courses.tutsplus.com/courses/whats-coming-to-javascript/lessons/picking-the-ecmascript-6-environments",
+        "url": "https://code.tutsplus.com/courses/whats-coming-to-javascript/lessons/picking-the-ecmascript-6-environments",
         "published_at": "20150213",
         "site" : "Tuts+",
         "site_url": "http://courses.tutsplus.com/",
@@ -317,7 +317,7 @@
         "site" : "Watchmecode",
         "site_url": "https://sub.watchmecode.net",
         "image": "watchmecode.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "AMD Build With Grunt And Rigger",
@@ -329,7 +329,7 @@
         "site" : "Watchmecode",
         "site_url": "https://sub.watchmecode.net",
         "image": "watchmecode.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "The Jasmine Standalone Runner",
@@ -341,7 +341,7 @@
         "site" : "Watchmecode",
         "site_url": "https://sub.watchmecode.net",
         "image": "watchmecode.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "ES6 Arrow Functions",
@@ -353,7 +353,7 @@
         "site" : "Ode to Code",
         "site_url": "http://odetocode.com",
         "image": "odetocode.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "ES6 Template Strings",
@@ -365,7 +365,7 @@
         "site" : "Ode to Code",
         "site_url": "http://odetocode.com",
         "image": "odetocode.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "ES6 Rest Parameters",
@@ -377,7 +377,7 @@
         "site" : "Ode to Code",
         "site_url": "http://odetocode.com",
         "image": "odetocode.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "ES6 Default Parameter Values",
@@ -389,7 +389,7 @@
         "site" : "Ode to Code",
         "site_url": "http://odetocode.com",
         "image": "odetocode.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "ES6 Spread",
@@ -401,7 +401,7 @@
         "site" : "Ode to Code",
         "site_url": "http://odetocode.com",
         "image": "odetocode.jpg",
-        "lang": "en"        
+        "lang": "en"
       }
     ]
   }
