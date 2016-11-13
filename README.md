@@ -4,7 +4,13 @@ This is the repository of the site https://devfreecasts.github.io to submit scre
 
 ## How to add screencasts?
 
-**Before start it, all videos you add must be freeware and for web developers**
+### Via Google docs
+
+You can submit a video via [Google Docs Form](https://docs.google.com/forms/d/e/1FAIpQLSe85Y-RHMyFmhemM-cWcun2SJctviDRiqTZ3MxoOPBRtv5wWw/viewform).
+
+### Via Pull Request
+
+**Before start it, all videos you add must be freeware to be shared**
 
 First of all you need to [fork this repository](https://github.com/devfreecasts/devfreecasts.github.io/fork).
 
