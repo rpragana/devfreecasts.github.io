@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2016-11-28T16:07:59.422Z
+# rev 1 - 2016-11-28T16:34:41.479Z
 
 CACHE:
 404.html
@@ -33,6 +33,7 @@ assets/images/css.jpg
 assets/images/devcast.jpg
 assets/images/devfreecasts-128.png
 assets/images/devfreecasts-facebook.jpg
+assets/images/devfreecasts-splash.png
 assets/images/devfreecasts-thumb.png
 assets/images/devfreecasts.png
 assets/images/django-con.jpg
@@ -125,6 +126,7 @@ index.html
 ios/index.html
 java/index.html
 javascript/index.html
+manifest.json
 meteor/index.html
 nodejs/index.html
 php/index.html
