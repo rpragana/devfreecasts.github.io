@@ -8,6 +8,61 @@
     "description": "Watch screencasts over a list with the best free videos about React UI framework.",
     "videos": [
       {
+        "title": "Higher Order Components",
+        "description": "Higher Order Components are a very useful way to create behaviour that can be reused in different components. In this episode you will learn how to create a HOC and use for changing props and hijacking the render of the wrapped component.",
+        "duration": "9:40",
+        "level": "i",
+        "published_at": "20161128",
+        "url": "https://www.youtube.com/watch?v=LTunyI2Oyzw",
+        "site": "ReactCasts",
+        "site_url": "https://www.youtube.com/c/reactcasts",
+        "lang": "en"
+      },
+      {
+        "title": "Function as Child Components",
+        "description": "Function as Child Components is a pattern to reuse common functionalities across your components.",
+        "duration": "5:53",
+        "level": "i",
+        "published_at": "20161128",
+        "url": "https://www.youtube.com/watch?v=WE3XAt9P8Ek",
+        "site": "ReactCasts",
+        "site_url": "https://www.youtube.com/c/reactcasts",
+        "lang": "en"
+      },
+      {
+        "title": "React's Children API",
+        "description": "React's Children is a top level API that provides utilities for dealing with “props.children”. It can be used by parent components in a composition to transform and manipulate how it's children get's rendered.",
+        "duration": "8:05",
+        "level": "i",
+        "published_at": "20161128",
+        "url": "https://www.youtube.com/watch?v=DJ53-G8EbxE",
+        "site": "ReactCasts",
+        "site_url": "https://www.youtube.com/c/reactcasts",
+        "lang": "en"
+      },
+      {
+        "title": "Context - Part 1",
+        "description": "Context makes it possible to pass data through the component hierarchy, without needing intermediate components to know about it.",
+        "duration": "7:24",
+        "level": "i",
+        "published_at": "20161128",
+        "url": "https://www.youtube.com/watch?v=lxq938kqIss",
+        "site": "ReactCasts",
+        "site_url": "https://www.youtube.com/c/reactcasts",
+        "lang": "en"
+      },
+      {
+        "title": "Context - Part 2 ",
+        "description": "Context Part 2 shows how to use Higher-Order-Components and subscriptions to use React's Context safely.",
+        "duration": "9:50",
+        "level": "i",
+        "published_at": "20161128",
+        "url": "https://www.youtube.com/watch?v=mwYHDXS6uSc",
+        "site": "ReactCasts",
+        "site_url": "https://www.youtube.com/c/reactcasts",
+        "lang": "en"
+      },
+      {
         "title": "What's new and different in React v0.12.0",
         "description": "React has changed a bit in version 0.12.0. Let's take a look at what is different. You may need to update some code!",
         "duration": "3:42",
@@ -17,7 +72,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Using TweenMax with React",
@@ -29,7 +84,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Reflux - Creating your first Action in React",
@@ -41,7 +96,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Setting up a React Playground Dev Environment",
@@ -53,7 +108,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Thinking in React",
@@ -65,7 +120,7 @@
         "site" : "TagTree",
         "site_url": "http://tagtree.tv",
         "image": "tagtree.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Hello World - First Component",
@@ -77,7 +132,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "The Render Method",
@@ -89,7 +144,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Introduction to Properties",
@@ -101,7 +156,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Owner Ownee Relationship",
@@ -113,7 +168,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Using Refs to Access Components",
@@ -125,7 +180,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Composable Components",
@@ -137,7 +192,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "State Basics",
@@ -149,7 +204,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Flux Components/Views",
@@ -161,7 +216,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Flux Stores",
@@ -173,7 +228,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Flux Actions",
@@ -185,7 +240,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Flux Overview and Dispatchers",
@@ -197,7 +252,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Flux Development Environment Setup",
@@ -209,7 +264,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       },
       {
         "title": "Developer Tools",
@@ -221,7 +276,7 @@
         "site" : "egghead",
         "site_url": "https://egghead.io",
         "image": "egghead.jpg",
-        "lang": "en"        
+        "lang": "en"
       }
     ]
   }
