@@ -779,18 +779,6 @@
         "lang": "en"
       },
       {
-        "title": "Node Streams",
-        "description": "You've heard a lot about node streams, in this episode you get introduced to streams and see how to code up your own read, write, and transform stream.",
-        "duration": "8:28",
-        "level": "a",
-        "url": "http://tagtree.tv/intro-to-node-streams",
-        "published_at": "20150213",
-        "site" : "TagTree",
-        "site_url": "http://tagtree.tv",
-        "image": "tagtree.jpg",
-        "lang": "en"
-      },
-      {
         "title": "Building NPM Packages",
         "description": "The next step is to create the directory for our project. Also, we’ll need to set things up for browser testing, since our template will only support Node testing by default.",
         "duration": "9:20",

@@ -200,18 +200,6 @@
         "lang": "en"
       },
       {
-        "title": "ES6 Generators",
-        "description": "Generators! In this episode we introduce you to working lazily with complex array calculations with generators.",
-        "duration": "7:40",
-        "level": "a",
-        "url": "http://tagtree.tv/ecmascript-6-episode-4",
-        "published_at": "20150213",
-        "site" : "TagTree",
-        "site_url": "http://tagtree.tv",
-        "image": "tagtree.jpg",
-        "lang": "en"
-      },
-      {
         "title": "Functions Scope Basic",
         "description": "This or that? Javascript scoping can be confusing. This lesson covers the very basics of function scoping.",
         "duration": "5:45",

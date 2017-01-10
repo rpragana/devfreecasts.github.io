@@ -111,18 +111,6 @@
         "lang": "en"
       },
       {
-        "title": "Thinking in React",
-        "description": "We build a sample app in the Facebook view library, following along with their 'Thinking in React' guide.",
-        "duration": "15:15",
-        "level": "b",
-        "url": "http://tagtree.tv/thinking-in-react",
-        "published_at": "20150213",
-        "site" : "TagTree",
-        "site_url": "http://tagtree.tv",
-        "image": "tagtree.jpg",
-        "lang": "en"
-      },
-      {
         "title": "Hello World - First Component",
         "description": "This is the first lesson in a series of lessons that take a look at the core fundamentals of UI development with React. Hello world.",
         "duration": "1:55",
