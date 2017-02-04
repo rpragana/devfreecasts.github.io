@@ -1,17 +1,16 @@
 CACHE MANIFEST
-# rev 1 - 2017-01-10T19:43:15.317Z
+# rev 1 - 2017-02-04T19:55:01.198Z
 
 CACHE:
 404.html
-about/index.html
-android/index.html
-angularjs/index.html
+manifest.json
+robots.txt
+favicon.ico
 assets/css/application.css
 assets/font/fontello.eot
 assets/font/fontello.svg
 assets/font/fontello.ttf
 assets/font/fontello.woff
-assets/font/fontello.woff2
 assets/font/opensans.eot
 assets/font/opensans.svg
 assets/font/opensans.ttf
@@ -105,40 +104,6 @@ assets/images/watchmecode.jpg
 assets/js/aightjs.min.js
 assets/js/application.js
 assets/js/html5shiv.min.js
-backbone/index.html
-c-cpp/index.html
-chrome-devtools/index.html
-csharp/index.html
-css/index.html
-django/index.html
-elixir/index.html
-emberjs/index.html
-favicon.ico
-git/index.html
-go/index.html
-grails/index.html
-grunt/index.html
-gulp/index.html
-haskell/index.html
-html/index.html
-index.html
-ios/index.html
-java/index.html
-javascript/index.html
-manifest.json
-meteor/index.html
-nodejs/index.html
-php/index.html
-playframework/index.html
-polymer/index.html
-python/index.html
-rails/index.html
-react/index.html
-robots.txt
-rss.xml
-ruby/index.html
-scala/index.html
-vim/index.html
 
 NETWORK:
 *
