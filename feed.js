@@ -27,9 +27,24 @@ fs.readdirSync(categoryDir).forEach((categoryFile) => {
     const videoId = video.title.replace(/[^\w\s]/g, '').replace(/\s/g, '-').toLowerCase();
     const videoLink = `${rootUrl}${categoryName}/#${videoId}`;
     const videoPublishedAt = moment(video.published_at || moment().format('YYYYMMDD'), 'YYYYMMDD');
+    const videoImage = video.image || `${categoryName}.png`;
     videos.push({
       title: `Video: ${video.title}`,
-      description: video.description,
+      description: `
+        <article>
+          <figure style="text-align:center;">
+            <img src="${imageRootUrl}${videoImage}" title="${video.title}" />
+            <figcaption>${video.title}</figcaption>
+          </figure>
+          <p>
+            ${video.description}
+            <br />
+            Site: <b>${video.site}</b> | Section: <b>${category.subtitle}</b>
+            <br />
+            Lang: <b>${video.lang}</b> | Level: <b>${video.level}</b> | Duration: <b>${video.duration}</b>
+          </p>
+        </article>
+      `,
       url: videoLink,
       author: harp.author,
       date: videoPublishedAt.format('ll')
