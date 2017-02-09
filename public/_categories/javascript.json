@@ -8,6 +8,54 @@
     "description": "Watch screencasts over a list with the best free videos about JavaScript language.",
     "videos": [
       {
+        "title": "Principles of VueJS",
+		    "description": "VueJS is a simple framework for handling your views",
+        "duration": "11:07",
+		    "site": "O Programador",
+        "site_url": "https://www.youtube.com/c/Oprogramador",
+        "lang": "PT-BR",
+        "level": "I",
+        "url": "https://www.youtube.com/watch?v=d_N0grS9QRE",
+	    "image": "rildo-pragana.jpg",
+        "published_at": "20170125"
+      },
+      {
+        "title": "Regular Expressions",
+		    "description": "Fundamentals of regular expressions",
+        "duration": "11:09",
+		    "site": "O Programador",
+        "site_url": "https://www.youtube.com/c/Oprogramador",
+        "lang": "PT-BR",
+        "level": "I",
+        "url": "https://www.youtube.com/watch?v=onEaBrE7w8A",
+	    "image": "rildo-pragana.jpg",
+        "published_at": "20161207"
+      },
+      {
+        "title": "Reactive Programming",
+		    "description": "Reactivity is new game for views handling, as is present in many modern frameworks such as Meteor, React, Vue, and others.",
+        "duration": "12:51",
+		    "site": "O Programador",
+        "site_url": "https://www.youtube.com/c/Oprogramador",
+        "lang": "PT-BR",
+        "level": "I",
+        "url": "https://www.youtube.com/watch?v=Dvl-MKXVGzc",
+	    "image": "rildo-pragana.jpg",
+        "published_at": "20161110"
+      },
+      {
+        "title": "Why Javascript?",
+		    "description": "Why Javascript must be learned and what it represents in the spectrum of programming languages",
+        "duration": "05:08",
+		    "site": "O Programador",
+        "site_url": "https://www.youtube.com/c/Oprogramador",
+        "lang": "PT-BR",
+        "level": "I",
+        "url": "https://www.youtube.com/watch?v=Oy0TKEWJimo",
+	    "image": "rildo-pragana.jpg",
+        "published_at": "20161108"
+      },
+      {
         "title": "Promises.all",
 		    "description": "This is a practical video about how to use and work with Promises.all() function.",
         "duration": "05:20",
