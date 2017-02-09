@@ -8,6 +8,28 @@
     "description": "Watch screencasts over a list with the best free videos about server-side developing with Node.js.",
     "videos": [
       {
+        "title": "Introdução ao Express",
+		    "description": "Mostramos como utilizar o comando 'express', instalado pelo módulo express-generator, para criar o esqueleto de uma aplicação, e como fazer alterações para customizar o programa gerado.",
+        "duration": "06:02",
+		    "site": "O Programador",
+        "site_url": "https://www.youtube.com/c/Oprogramador",
+        "lang": "PT-BR",
+        "level": "I",
+        "url": "https://www.youtube.com/watch?v=W8o-qOh5m1w",
+        "published_at": "20170206"
+      },
+      {
+        "title": "Promessas 2 (Promises.all) em Javascript",
+		    "description": "Mais informações sobre promessas (promises) em javascript, com exemplo prático de como usar a função .all() para juntar muitas promessas numa resolução só, quando temos um array de promessas.",
+        "duration": "05:20",
+		    "site": "O Programador",
+        "site_url": "https://www.youtube.com/c/Oprogramador",
+        "lang": "PT-BR",
+        "level": "I",
+        "url": "https://www.youtube.com/watch?v=mF_mGZEqvhE",
+        "published_at": "20170201"
+      },
+	{
         "title": "Buiding a TCP chat server",
 		    "description": "Learning how to building a TCP chat serve with node.js",
         "duration": "17:20",
