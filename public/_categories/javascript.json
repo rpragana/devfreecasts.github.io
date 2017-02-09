@@ -8,6 +8,18 @@
     "description": "Watch screencasts over a list with the best free videos about JavaScript language.",
     "videos": [
       {
+        "title": "Promises.all",
+		    "description": "This is a practical video about how to use and work with Promises.all() function.",
+        "duration": "05:20",
+		    "site": "O Programador",
+        "site_url": "https://www.youtube.com/c/Oprogramador",
+        "lang": "PT-BR",
+        "level": "I",
+        "url": "https://www.youtube.com/watch?v=mF_mGZEqvhE",
+        "image": "rildo-pragana.jpg",
+        "published_at": "20170201"
+      },
+      {
         "title": "HTML Canvas and Images",
         "description": "In addition to vector drawing, you can draw bitmap images into a canvas, and also retrieve a bitmap based on the content in a canvas.",
         "duration": "6:50",
